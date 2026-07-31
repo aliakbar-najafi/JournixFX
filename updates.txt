@@ -2,11 +2,11 @@
 
 [Update]
 Name = JOURNIX FX
-ProductVersion = 1.0.4.0
+ProductVersion = 1.0.4
 URL = https://s34.picofile.com/d/8491123984/f4479817-5250-480d-ac78-77cca6fb53f3/JOURNIX_FX.exe
 Size = 64042009
 SHA256 = 2616575C576948CF65F06367A9B0B087A12D8B37591674609888BA96016BB31A
 MD5 = e62141da6efdabe4adaea5a1b900b069
 ServerFileName = JOURNIX FX.exe
 RegistryKey = HKUD\Software\Aliakbar-Najafi.ir\JOURNIX FX\Version
-Version = 1.0.4.0
+Version = 1.0.4
