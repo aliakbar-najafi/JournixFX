@@ -1,12 +1,12 @@
-[General]
-AppDir=C:\JOURNIX FX\
-ApplicationName=JOURNIX FX
-CompanyName=Aliakbar-Najafi.ir
-ApplicationVersion=1.0.1
-DefaultCommandLine=/checknow
-CheckFrequency=2
-DownloadsFolder=C:\ProgramData\Aliakbar-Najafi.ir\JOURNIX FX\updates\
-Flags=PerMachine|ShowConfigOptionsButton
-ID={CADB2292-06DB-4E34-9E2F-6B7194D84CE2}
-URL=https://raw.githubusercontent.com/aliakbar-najafi/JournixFX/main/updates.txt
+;aiu;
 
+[Update]
+Name = JOURNIX FX
+ProductVersion = 1.0.4.0
+URL = https://raw.githubusercontent.com/aliakbar-najafi/JournixFX/refs/heads/main/JOURNIX_FX_Setup_1.0.3.0.exe
+Size = 64042006
+SHA256 = 09A2EA8441AF2DE63B088A78322D315EB797685BDF6CF8925983A539774ECAB5
+MD5 = 44d6fe4dcea2a9e218959e31cc3027da
+ServerFileName = JOURNIX_FX_Setup_1.0.0.1.exe
+RegistryKey = HKUD\Software\Aliakbar-Najafi.ir\JOURNIX FX\Version
+Version = 1.0.4.0
