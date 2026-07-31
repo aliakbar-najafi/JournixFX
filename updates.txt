@@ -2,7 +2,7 @@
 AppDir=C:\JOURNIX FX\
 ApplicationName=JOURNIX FX
 CompanyName=Aliakbar-Najafi.ir
-ApplicationVersion=1.0.2
+ApplicationVersion=1.0.1
 DefaultCommandLine=/checknow
 CheckFrequency=2
 DownloadsFolder=C:\ProgramData\Aliakbar-Najafi.ir\JOURNIX FX\updates\
