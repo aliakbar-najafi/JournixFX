@@ -3,7 +3,7 @@
 [Update]
 Name = JOURNIX FX
 ProductVersion = 1.0.0.1
-URL = https://s34.picofile.com/d/8491123984/f4479817-5250-480d-ac78-77cca6fb53f3/JOURNIX_FX.exe
+URL = https://github.com/aliakbar-najafi/JournixFX/releases/download/untagged-013ab3f9287d27402f10/JOURNIX_Setup_v1.0.0.1.exe
 Size = 67220717
 SHA256 = 2A332F74DDA9DD3F416B16CB5303E2C1687C4D94201EFF62E9BA3F67D1CE07EB
 MD5 = 9c800ca7b3096b91458ce5756845fdcb
